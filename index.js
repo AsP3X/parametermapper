@@ -1,3 +1,10 @@
+/*
+###################################################################
+## ZOUPA - ZombyMediaIC Open Source Usage Protection Agreement   ##
+## December 19, 2022 at 19:00 (UTC+0) | #202212191900            ##
+## By Niklas Vorberg (AsP3X)                                     ##
+###################################################################
+*/
 const paraMap = {}
 
 paraMap.convertArgs2Map = (args) => {
