@@ -7,7 +7,7 @@ The `paraMap` object contains a method `convertArgs2Map` that converts command l
 <h2>Usage</h2>
 
 ```js
-const paraMap = require('paraMap');
+const paraMap = require('parametermapper');
 
 const args = process.argv.slice(2);
 const parameterMap = paraMap.convertArgs2Map(args);
