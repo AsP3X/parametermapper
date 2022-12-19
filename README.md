@@ -36,7 +36,7 @@ Note that if a command line argument does not have a value, its value will be se
 # Another Example
 
 ```js
-const paraMap = require('paraMap');
+const paraMap = require('parametermapper');
 
 const args = process.argv.slice(2);
 const parameterMap = paraMap.convertArgs2Map(args);
